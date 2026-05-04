@@ -1738,8 +1738,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -2650,8 +2650,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -3324,9 +3324,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Furnace Gate: The furnace gate is a heat-resistant door that provides
-    access to the boiler\u2019s combustion chamber. It is used for ignition, inspection,
-    and maintenance.\n"
+  m_text: 'Furnace Gate: This is the furnace gate, where fuel is fed and airflow
+    is controlled to keep the fire burning efficiently.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3477,8 +3476,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -6107,7 +6106,7 @@ MonoBehaviour:
     voiceOver: {fileID: 8300000, guid: a2d107c3dcd3043498eccf516c773e4c, type: 3}
     modelPart: {fileID: 807803179}
   - canvas: {fileID: 31165198}
-    voiceOver: {fileID: 8300000, guid: a2d107c3dcd3043498eccf516c773e4c, type: 3}
+    voiceOver: {fileID: 8300000, guid: e11b9ce9d87e90b4aad47896962dadbd, type: 3}
     modelPart: {fileID: 1203081539}
   - canvas: {fileID: 291516979}
     voiceOver: {fileID: 8300000, guid: e87a6fd437b113047afca75a32149704, type: 3}
@@ -6122,7 +6121,7 @@ MonoBehaviour:
     voiceOver: {fileID: 8300000, guid: e03cd3790b043d3469a3716e0652529b, type: 3}
     modelPart: {fileID: 72888917}
   - canvas: {fileID: 873913758}
-    voiceOver: {fileID: 8300000, guid: 2dc4e2e4d78e77d4d843229377c54fdb, type: 3}
+    voiceOver: {fileID: 8300000, guid: 0113def363761e74189a397f7eb6e4c5, type: 3}
     modelPart: {fileID: 873913758}
   - canvas: {fileID: 1107677893}
     voiceOver: {fileID: 8300000, guid: 4162232ef99a37e4b82c45d9e7f0c16f, type: 3}
@@ -6137,7 +6136,7 @@ MonoBehaviour:
     voiceOver: {fileID: 8300000, guid: 46e3cf92bebc5cb439400f7f4f8d76d3, type: 3}
     modelPart: {fileID: 1764243443}
   - canvas: {fileID: 1758431521}
-    voiceOver: {fileID: 8300000, guid: a2d107c3dcd3043498eccf516c773e4c, type: 3}
+    voiceOver: {fileID: 8300000, guid: 5c3f90170c140df409f9c0914de9d816, type: 3}
     modelPart: {fileID: 1758431521}
   - canvas: {fileID: 1597350253}
     voiceOver: {fileID: 8300000, guid: 76e8f59df1cae6e48a598a7e92b74ff2, type: 3}
@@ -6155,7 +6154,7 @@ MonoBehaviour:
     voiceOver: {fileID: 8300000, guid: 160e7e0acdb423c48ad1797346d40923, type: 3}
     modelPart: {fileID: 1678818773}
   - canvas: {fileID: 598072486}
-    voiceOver: {fileID: 8300000, guid: 160e7e0acdb423c48ad1797346d40923, type: 3}
+    voiceOver: {fileID: 8300000, guid: 767b6b9bc4bea5b4bb1acff6c626b6fe, type: 3}
     modelPart: {fileID: 1764243438}
   particleSystems:
   - {fileID: 643529283}
@@ -12467,7 +12466,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.122641504, g: 0.028834665, b: 0, a: 0.392}
+  m_Color: {r: 1, g: 0, b: 1, a: 0.29411766}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -13628,7 +13627,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.4339623, g: 0.29026347, b: 0.034798868, a: 1}
+  m_Color: {r: 1, g: 0, b: 1, a: 0.29411766}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -25005,7 +25004,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.735849, g: 0.5456594, b: 0.2672659, a: 1}
+  m_Color: {r: 0.37254903, g: 0, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -25322,8 +25321,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4281093760
-  m_fontColor: {r: 0.5, g: 0.30614114, b: 0.1721698, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -26215,8 +26214,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -26926,7 +26925,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.4339623, g: 0.29026347, b: 0.034798868, a: 1}
+  m_Color: {r: 1, g: 0, b: 1, a: 0.29411766}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -27248,8 +27247,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Superheater Tubes: This is the superheater. It takes the saturated steam
-    from the drum and heats it further to make it dry and more efficient for work. '
+  m_text: 'Riser: Riser is a pipe which carries heated water and steam mixture upward
+    through the boiler.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -47316,7 +47315,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.122641504, g: 0.028834665, b: 0, a: 0.392}
+  m_Color: {r: 1, g: 0, b: 1, a: 0.29411766}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -47554,8 +47553,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
